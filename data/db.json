@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Whispering Forest",
+      "author": "Sarah Evergreen",
+      "body": "In the heart of the ancient Whispering Forest, a young adventurer named Elara discovers a hidden portal to another world. As she embarks on a perilous journey through a land of mythical creatures and long-forgotten magic, she unravels the secrets of her own past and the fate of the enchanted realm."
+    },
+    {
+      "id": 2,
+      "title": "The Clockwork Chronicles",
+      "author": " Victor Steele",
+      "body": "In a steampunk-inspired city where gears and gadgets rule, detective Amelia Blackwood is tasked with solving a series of mysterious clockwork murders. As she delves deeper into the dark underbelly of her metropolis, Amelia uncovers a web of corruption, conspiracies, and clockwork creations beyond imagination."
+    },
+    {
+      "id": 3,
+      "title": "Echoes of Eternity",
+      "author": "Jonathan Rivers",
+      "body": "A time-traveling physicist accidentally discovers a way to communicate with his own past and future selves. Through a series of mind-bending exchanges, he unravels the consequences of his actions and the profound impact of choices made across the vast tapestry of time."
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist's Legacy",
+      "author": "Isabella Knight",
+      "body": "In a medieval world where alchemy holds the key to power and immortality, a young alchemist named Leo embarks on a quest to uncover the secrets of the legendary Philosopher's Stone. Along the way, he encounters treacherous foes, enigmatic mentors, and the true meaning of transmutation."
+    }
+  ]
+}
